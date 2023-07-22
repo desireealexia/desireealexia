@@ -8,7 +8,7 @@
 
 * 💼  I'm currently looking for opportunities to apply my skills and knowledge in an entry-level web/front-end development role
 
-* 📫  How to reach me: desireealexia19@gmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/dwilliamsforde/)
+* 📫  How to reach me: desiree.wf0@gmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/dwilliamsforde/)
 
 <!--
 **desireealexia/desireealexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
