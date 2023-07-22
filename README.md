@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm Desiree, a Front End Developer who is keen to learn and grow my front end development skills!</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm Desiree, a Front-end Developer who is keen to learn and grow my front-end development skills!</h3>
 
 
 ## About Me
 * 🌱  I’m currently learning HTML, CSS and JavaScript
 
-* 💼  I'm currently looking for opportunities to apply my skills and knowledge in an entry-level web/front-end development role
+* 💼  I'm currently looking for opportunities to apply my skills and knowledge in an entry-level front-end development role or internship
 
-* 📫  How to reach me: desiree.wf0@gmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/dwilliamsforde/)
+* 📫  Reach me by [Email](desiree.wf0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dwilliamsforde/)
 
 <!--
 **desireealexia/desireealexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
