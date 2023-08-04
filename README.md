@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm Desiree, a Front-end Developer who is keen to learn and grow my front-end development skills!</h3>
+<h3 align="center">Welcome to my GitHub profile! <br> I'm Desiree, a Web/ Software Developer who is keen to learn and grow my front-end development skills!</h3>
 
 
 ## About Me
-* 🌱  I’m currently learning HTML, CSS and JavaScript
+* 🌱  I’m currently learning HTML, CSS and JavaScript.
 
-* 💼  I'm currently looking for opportunities to apply my skills and knowledge in an entry-level front-end development role or internship
+* 💼  I'm currently looking for opportunities to apply my skills and knowledge in an entry-level web/software development role or internship
 
 * 📫  Reach me by [Email](desiree.wf0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dwilliamsforde/)
 
