@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">Welcome to my GitHub profile! <br> I'm Desiree, a Web/ Software Developer who is keen to learn and grow my front-end development skills!</h3>
+<h3 align="center">Welcome to my GitHub profile! <br> I'm Desiree, a Web/Software Developer who is keen to learn and grow my front-end development skills!</h3>
 
 
 ## About Me
