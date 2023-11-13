@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Desiree, an aspiring Software Engineer from London, England. I am currently in the midst of an exciting career pivot. I'm learning how to code and make webpages with HTML, CSS and JavaScript.<br>I'm an aspiring Software Engineer who is keen to learn and grow my skills!<br><br>🔭 I’m currently working on Harvard University's CS50 Introduction to Computer Science Course.<br>🌱 I’m currently learning HTML, CSS, and JavaScript.<br>📫 How to reach me: Email or connect with me on LinkedIn<br>⚡ Fun fact: I do not have a CS degree. I actually have a bachelor's in Media and Marketing.
+I'm Desiree, an aspiring Software Engineer from London, England. I am currently amid an exciting career pivot. I'm learning how to code and make webpages with HTML, CSS and JavaScript.<br>I'm an aspiring Software Engineer keen to learn and grow my skills!<br><br>🔭 I’m currently working on Harvard University's CS50 Introduction to Computer Science Course.<br>🌱 I’m currently learning HTML, CSS, and JavaScript.<br>📫 How to reach me: Email or connect with me on LinkedIn<br>⚡ Fun fact: I have a bachelor's in Media and Marketing but am now pursuing a career in software engineering.
 
 
 ## 🌐 Socials:
