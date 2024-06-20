@@ -1,14 +1,14 @@
 ![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
 # 💫 About Me:
-Hi, I'm Desiree, a passionate self-taught frontend developer from the UK.
+Hi, I'm Desiree, a passionate junior software developer from the UK.
 <br> 
 <br>
 🔭 I am currently amid an exciting career pivot into tech, keen to learn and grow my skills!
 <br>
-🌱 I’m currently learning web development technologies. 
+🌱 I’m currently enrolled on the Code Institute Web Application Development Course. 
 <br>
-⚡ Fun fact: I am a big Studio Ghibli fan.
+⚡ Fun fact: I am a Studio Ghibli fan.
 <br> 
 <br>
 📫 Connect with me:
