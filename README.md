@@ -1,6 +1,6 @@
 ![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
-I'm a **Junior Web Developer** based in London, passionate about building clean, efficient, and user-friendly web applications. Currently learning and working with **HTML5, CSS3, JavaScript, React**, and **Python**.
+I'm an **Aspiring Software Developer** based in London, passionate about building clean, efficient, and user-friendly web applications. Currently learning and working with **HTML5, CSS3, JavaScript, React**, and **Python**.
 
 ## 🚀 Skills
 - **Languages**: HTML5, CSS3, JavaScript, Python
