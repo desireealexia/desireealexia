@@ -1,23 +1,26 @@
 ![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
-I'm an **Aspiring Software Developer** based in London. I'm passionate about building clean, efficient, and user-friendly web applications. Currently learning and working with **HTML5, CSS3, JavaScript,** and **Python**.
+**Aspiring Full-Stack Web Developer** passionate about crafting clean and user-friendly web applications. I enjoy working with **HTML, CSS, JavaScript,** and **Python** to build dynamic and interactive experiences.
+
+## 💼 Career Focus
+I'm focused on growing as a full-stack web developer, with an interest in building scalable, user-centric applications that make an impact in real-world projects.
 
 ## 🚀 Skills
 - **Languages**: HTML, CSS, JavaScript, Python
-- **Libraries & Frameworks**: Django (currently learning)
-- **Tools**: Git, GitHub, WordPress, Visual Studio Code
-- **Design**: Adobe XD, Figma, Canva
-- **Other**: SEO, Responsive Web Design, Agile Methodology
+- **Frameworks & Libraries**: Django (currently learning)
+- **Tools & Platforms**: Git, GitHub, WordPress, Visual Studio Code
+- **Development Practices**: Responsive Web Design, Agile Methodology, SEO, Version Control
+- **Design & UI/UX**: Figma, Adobe Suite, Canva
 
 ## 🔥 Projects
 - [**ReelRatings (Currently Building)**](https://github.com/desireealexia/ReelRatings)  
   A movie and TV show rating and review platform built with **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **PostgreSQL**.
   
 - [**Studio Ghibli Quiz**](https://github.com/desireealexia/Studio-Ghibli-Quiz)  
-  A multiple-choice quiz app built with **HTML**, **CSS**, and **JavaScript**.
+  A multiple-choice quiz app developed with **HTML**, **CSS**, and **JavaScript**.
 
 - [**Experience Valencia**](https://github.com/desireealexia/Experience-Valencia)  
-  A city guide for Valencia, Spain, designed using **HTML** and **CSS**.
+  A visually appealing city guide for Valencia, Spain, designed using **HTML** and **CSS**.
 
 ## 📫 How to reach me:
 - **LinkedIn**: [linkedin.com/in/desireealexia](https://www.linkedin.com/in/desireealexia)
@@ -25,12 +28,12 @@ I'm an **Aspiring Software Developer** based in London. I'm passionate about bui
 - **GitHub**: [github.com/desireealexia](https://github.com/desireealexia)
 
 ## 📚 Currently learning:
-- Full-stack development
+- Full-stack development best practices
 - Python web frameworks (Django)
-- Web performance optimisation
+- Web performance optimisation & accessibility
 
 ## 🎉 Fun facts:
 - I love travelling and exploring new cities!
-- I’m a big fan of Studio Ghibli films (as you might have guessed from my quiz project).
+- Big fan of Studio Ghibli films 🎥🍿
 - When I’m not coding, I enjoy baking and photography.
 
