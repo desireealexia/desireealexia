@@ -22,18 +22,17 @@ I'm focused on growing as a full-stack web developer, with an interest in buildi
 - [**Experience Valencia**](https://github.com/desireealexia/Experience-Valencia)  
   A visually appealing city guide for Valencia, Spain, designed using **HTML** and **CSS**.
 
+## 📚 Currently learning:
+- Full-stack development best practices
+- Python web frameworks (Django)
+- Web performance optimisation & accessibility
+- 
 ## 📫 How to reach me:
 - **LinkedIn**: [linkedin.com/in/desireealexia](https://www.linkedin.com/in/desireealexia)
 - **Email**: desiree.wf0@gmail.com
 - **GitHub**: [github.com/desireealexia](https://github.com/desireealexia)
 
-## 📚 Currently learning:
-- Full-stack development best practices
-- Python web frameworks (Django)
-- Web performance optimisation & accessibility
-
 ## 🎉 Fun facts:
 - I love travelling and exploring new cities!
 - Big fan of Studio Ghibli films 🎥🍿
 - When I’m not coding, I enjoy baking and photography.
-
