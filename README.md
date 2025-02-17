@@ -1,16 +1,19 @@
 ![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
-I'm an **Aspiring Software Developer** based in London, passionate about building clean, efficient, and user-friendly web applications. Currently learning and working with **HTML5, CSS3, JavaScript, React**, and **Python**.
+I'm an **Aspiring Software Developer** based in London, passionate about building clean, efficient, and user-friendly web applications. Currently learning and working with **HTML5, CSS3, JavaScript,** and **Python**.
 
 ## 🚀 Skills
-- **Languages**: HTML5, CSS3, JavaScript, Python
-- **Libraries & Frameworks**: React, Django
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Libraries & Frameworks**: Django (currently learning)
 - **Tools**: Git, GitHub, WordPress, Visual Studio Code
 - **Design**: Adobe XD, Figma, Canva
 - **Other**: SEO, Responsive Web Design, Agile Methodology
 
 ## 🔥 Projects
 
+- [**ReelRatings (Currently Building)**](https://github.com/desireealexia/Experience-Valencia)  
+  A movie and TV show rating and review platform built with **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **PostgreSQL**.
+  
 - [**Studio Ghibli Quiz**](https://github.com/desireealexia/Studio-Ghibli-Quiz)  
   A multiple-choice quiz app built with **HTML**, **CSS**, and **JavaScript**.
 
@@ -23,7 +26,7 @@ I'm an **Aspiring Software Developer** based in London, passionate about buildin
 - GitHub: [github.com/desireealexia](https://github.com/desireealexia)
 
 ## 📚 Currently learning:
-- Full-stack development (React)
+- Full-stack development
 - Python web frameworks (Django)
 - Web performance optimisation
 
