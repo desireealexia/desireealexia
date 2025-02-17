@@ -11,7 +11,7 @@ I'm an **Aspiring Software Developer** based in London, passionate about buildin
 
 ## 🔥 Projects
 
-- [**ReelRatings (Currently Building)**](https://github.com/desireealexia/Experience-Valencia)  
+- [**ReelRatings (Currently Building)**](https://github.com/desireealexia/ReelRatings)
   A movie and TV show rating and review platform built with **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **PostgreSQL**.
   
 - [**Studio Ghibli Quiz**](https://github.com/desireealexia/Studio-Ghibli-Quiz)  
