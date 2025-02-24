@@ -1,12 +1,12 @@
 ![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
-**Aspiring Full-Stack Web Developer** passionate about crafting clean and user-friendly web applications. I enjoy working with **HTML, CSS, JavaScript,** and **Python** to build dynamic and interactive experiences.
+**Aspiring Software Developer** passionate about building clean, accessible, and user-centric web applications. Experienced in **HTML, CSS, JavaScript,** and **Python**, with a growing interest in back-end technologies like **Django**.
 
 ## 💼 Career Focus
-I'm focused on growing as a full-stack web developer, with an interest in building scalable, user-centric applications that make an impact in real-world projects.
+Focused on growing as a software developer, with an interest in creating dynamic, scalable, and high-impact web applications.
 
 ## 🚀 Skills
-- **Languages**: HTML, CSS, JavaScript, Python
+- **Languages**: HTML, CSS, JavaScript, Python 
 - **Frameworks & Libraries**: Django (currently learning)
 - **Tools & Platforms**: Git, GitHub, WordPress, Visual Studio Code
 - **Development Practices**: Responsive Web Design, Agile Methodology, SEO, Version Control
@@ -23,16 +23,17 @@ I'm focused on growing as a full-stack web developer, with an interest in buildi
   A visually appealing city guide for Valencia, Spain, designed using **HTML** and **CSS**.
 
 ## 📚 Currently learning:
-- Full-stack development best practices
-- Python web frameworks (Django)
+- Back-end development with **Django**
 - Web performance optimisation & accessibility
-- 
+- Python web frameworks and API integration
+  
 ## 📫 How to reach me:
-- **LinkedIn**: [linkedin.com/in/desireealexia](https://www.linkedin.com/in/desireealexia)
+- **LinkedIn**: [linkedin.com/in/desireewilliamsforde](https://www.linkedin.com/in/desireewilliamsforde/)
 - **Email**: desiree.wf0@gmail.com
 - **GitHub**: [github.com/desireealexia](https://github.com/desireealexia)
 
 ## 🎉 Fun facts:
 - I love travelling and exploring new cities!
 - Big fan of Studio Ghibli films 🎥🍿
-- When I’m not coding, I enjoy baking and photography.
+- When I’m not coding, you’ll probably find me baking or capturing moments through photography.
+- Recently, I’ve taken up running as a new challenge – and I’m loving the feeling of setting new personal bests! 🏃‍♀️💨
