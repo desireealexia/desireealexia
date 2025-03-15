@@ -1,6 +1,6 @@
 ![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
-**Aspiring Software Developer** passionate about building clean, accessible, and user-centric web applications. Experienced in **HTML, CSS, JavaScript,** and **Python**, with a growing interest in back-end technologies like **Django**.
+**Software Developer** passionate about building clean, accessible, and user-centric web applications. Experienced in **HTML, CSS, JavaScript,** and **Python**, with a growing interest in back-end technologies like **Django**.
 
 ## 💼 Career Focus
 Focused on growing as a software developer, with an interest in creating dynamic, scalable, and high-impact web applications.
@@ -13,8 +13,8 @@ Focused on growing as a software developer, with an interest in creating dynamic
 - **Design & UI/UX**: Figma, Adobe Suite, Canva
 
 ## 🔥 Projects
-- [**ReelRatings (Currently Building)**](https://github.com/desireealexia/ReelRatings)  
-  A movie and TV show rating and review platform built with **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **PostgreSQL**.
+- [**Fork & Flavours (Currently Building)**](https://github.com/desireealexia/fork_and_flavour)  
+  A recipe manager web app built with **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **PostgreSQL**.
   
 - [**Studio Ghibli Quiz**](https://github.com/desireealexia/Studio-Ghibli-Quiz)  
   A multiple-choice quiz app developed with **HTML**, **CSS**, and **JavaScript**.
@@ -35,5 +35,4 @@ Focused on growing as a software developer, with an interest in creating dynamic
 ## 🎉 Fun facts:
 - I love travelling and exploring new cities!
 - Big fan of Studio Ghibli films 🎥🍿
-- When I’m not coding, you’ll probably find me baking or capturing moments through photography.
 - Recently, I’ve taken up running as a new challenge – and I’m loving the feeling of setting new personal bests! 🏃‍♀️💨
