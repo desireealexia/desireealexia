@@ -13,6 +13,9 @@ Focused on growing as a software developer, with an interest in creating dynamic
 - **Design & UI/UX**: Figma, Adobe Suite, Canva
 
 ## 🔥 Projects
+- [**Eerised Candles (Currently Building)**](https://github.com/desireealexia/eerised-candles)  
+  An e-commerce platform for a handmade home fragrance brand, offering **candles, reed diffusers, room sprays, and wax melts**. Features **Stripe integration** for payments and built with **Python**, **Django**, **HTML**, **CSS**, and **JavaScript**.
+  
 - [**Fork & Flavours (Currently Building)**](https://github.com/desireealexia/fork_and_flavour)  
   A recipe manager web app built with **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **PostgreSQL**.
   
