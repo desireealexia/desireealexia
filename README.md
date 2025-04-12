@@ -1,3 +1,4 @@
+![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
 # 👋 Hi, I'm Desiree
 
