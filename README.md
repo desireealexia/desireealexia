@@ -1,41 +1,67 @@
 ![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
-**Software Developer** passionate about building clean, accessible, and user-centric web applications. Experienced in **HTML, CSS, JavaScript,** and **Python**, with a growing interest in back-end technologies like **Django**.
+# 👋 Hi, I'm Desiree
 
-## 💼 Career Focus
-Focused on growing as a software developer, with an interest in creating dynamic, scalable, and high-impact web applications.
+**Front-End Developer** passionate about building responsive, accessible, and user-first websites. I combine creativity with clean code to craft seamless digital experiences that not only look great but work beautifully across devices.
 
-## 🚀 Skills
-- **Languages**: HTML, CSS, JavaScript, Python 
-- **Frameworks & Libraries**: Django (currently learning)
-- **Tools & Platforms**: Git, GitHub, WordPress, Visual Studio Code
-- **Development Practices**: Responsive Web Design, Agile Methodology, SEO, Version Control
-- **Design & UI/UX**: Figma, Adobe Suite, Canva
+---
 
-## 🔥 Projects
-- [**EERISED Candles**](https://github.com/desireealexia/eerised-candles)  
-  An e-commerce platform for a handmade home fragrance brand, offering **candles, reed diffusers, room sprays, and wax melts**. Features **Stripe integration** for payments and built with **Python**, **Django**, **HTML**, **CSS**, and **JavaScript**.
-  
-- [**Fork & Flavours**](https://github.com/desireealexia/fork_and_flavour)  
-  A recipe manager web app built with **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **PostgreSQL**.
-  
-- [**Studio Ghibli Quiz**](https://github.com/desireealexia/Studio-Ghibli-Quiz)  
-  A multiple-choice quiz app developed with **HTML**, **CSS**, and **JavaScript**.
+## 💡 About Me
 
-- [**Experience Valencia**](https://github.com/desireealexia/Experience-Valencia)  
-  A visually appealing city guide for Valencia, Spain, designed using **HTML** and **CSS**.
+With a background in **Media and Marketing**, I bring a storytelling mindset to every line of code. I love working at the intersection of **design and development**, ensuring the user journey is intuitive and engaging from start to finish. My focus is front-end, but I’ve also worked across the stack on projects with **Python** and **Django**, giving me a strong grasp of how the front and back end work together.
 
-## 📚 Currently learning:
-- Back-end development with **Django**
-- Web performance optimisation & accessibility
-- Python web frameworks and API integration
-  
-## 📫 How to reach me:
-- **LinkedIn**: [linkedin.com/in/desireewilliamsforde](https://www.linkedin.com/in/desireewilliamsforde/)
-- **Email**: desiree.wf0@gmail.com
-- **GitHub**: [github.com/desireealexia](https://github.com/desireealexia)
+I’m currently diving deeper into **JavaScript** (and getting ready to tackle **React**) to build even more interactive web interfaces.
 
-## 🎉 Fun facts:
-- I love travelling and exploring new cities!
-- Big fan of Studio Ghibli films 🎥🍿
-- Recently, I’ve taken up running as a new challenge – and I’m loving the feeling of setting new personal bests! 🏃‍♀️💨
+---
+
+## 🚀 Skills Snapshot
+
+- **Languages**: HTML, CSS, JavaScript, Python  
+- **Frameworks**: Django (learning), WordPress (theme development)  
+- **Tools & Platforms**: Git, GitHub, Heroku, Visual Studio Code  
+- **Design & UI/UX**: Figma, Canva, Adobe Suite  
+- **Practices**: Responsive Design, Accessibility, SEO, Agile Methodologies, Version Control  
+
+---
+
+## 🌟 Featured Projects
+
+### 🔥 [EERISED Candles](https://github.com/desireealexia/eerised-candles)  
+Custom-built e-commerce platform for a home fragrance brand. Includes **Stripe integration**, clean UI, and accessible design.  
+Tech: Django, HTML, CSS, JavaScript
+
+### 🥘 [Fork & Flavours](https://github.com/desireealexia/fork_and_flavour)  
+Recipe manager web app for planning and organising meals. Built with **PostgreSQL** and **Django**, with a responsive front-end.  
+Tech: Django, HTML, CSS, JavaScript, PostgreSQL
+
+### 🎬 [Studio Ghibli Quiz](https://github.com/desireealexia/Studio-Ghibli-Quiz)  
+Interactive, multi-choice quiz-themed around Studio Ghibli films.  
+Tech: HTML, CSS, JavaScript
+
+### 🌇 [Experience Valencia](https://github.com/desireealexia/Experience-Valencia)  
+A sleek, travel-focused city guide with visual flair and mobile-friendly layouts.  
+Tech: HTML, CSS
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript & React  
+- API integration and RESTful services  
+- Web performance optimisation & accessibility  
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/desireewilliamsforde/)  
+- 📧 [Email me](mailto:desiree.wf0@gmail.com)  
+- 💻 [GitHub](https://github.com/desireealexia)
+
+---
+
+## ✨ Fun Facts
+
+- I'm a lifelong fan of **Studio Ghibli** - there’s just something magical about those worlds ✨  
+- Recently took up **running** and loving the challenge 🏃‍♀️  
+- I’m a travel lover at heart - new cities always inspire fresh ideas 🌍
