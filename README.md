@@ -1,4 +1,3 @@
-![banner](https://github.com/desireealexia/desireealexia/assets/130295888/fa432496-0600-41c6-ba79-b8885b60be28)
 
 # 👋 Hi, I'm Desiree
 
@@ -65,5 +64,3 @@ Tech: HTML, CSS
 - I'm a lifelong fan of **Studio Ghibli** - there’s just something magical about those worlds ✨  
 - Recently took up **running** and loving the challenge 🏃‍♀️  
 - I’m a travel lover at heart - new cities always inspire fresh ideas 🌍
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?desireealexia=desireealexia)](https://github.com/desireealexia/github-readme-stats)
