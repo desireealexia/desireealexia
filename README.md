@@ -57,6 +57,7 @@ Tech: HTML, CSS
 - 💼 [LinkedIn](https://www.linkedin.com/in/desireewilliamsforde/)  
 - 📧 [Email me](mailto:desiree.wf0@gmail.com)  
 - 💻 [GitHub](https://github.com/desireealexia)
+- 🌐 [Portfolio](https://desireealexia.github.io/portfolio/)
 
 ---
 
