@@ -28,21 +28,21 @@ I’m currently diving deeper into **JavaScript** (and getting ready to tackle *
 
 ## 🌟 Featured Projects
 
-### 🔥 [EERISED Candles](https://github.com/desireealexia/eerised-candles)  
-Custom-built e-commerce platform for a home fragrance brand. Includes **Stripe integration**, clean UI, and accessible design.  
-Tech: Django, HTML, CSS, JavaScript
-
-### 🥘 [Fork & Flavours](https://github.com/desireealexia/fork_and_flavour)  
-Recipe manager web app for planning and organising meals. Built with **PostgreSQL** and **Django**, with a responsive front-end.  
-Tech: Django, HTML, CSS, JavaScript, PostgreSQL
-
 ### 🎬 [Studio Ghibli Quiz](https://github.com/desireealexia/Studio-Ghibli-Quiz)  
-Interactive, multi-choice quiz-themed around Studio Ghibli films.  
+Interactive, multi-choice quiz themed around Studio Ghibli films.  
 Tech: HTML, CSS, JavaScript
 
 ### 🌇 [Experience Valencia](https://github.com/desireealexia/Experience-Valencia)  
 A sleek, travel-focused city guide with visual flair and mobile-friendly layouts.  
 Tech: HTML, CSS
+
+### 🥘 [Fork & Flavours](https://github.com/desireealexia/fork_and_flavour)  
+Recipe manager web app for planning and organising meals. Built with **PostgreSQL** and **Django**, with a responsive front-end.  
+Tech: Django, HTML, CSS, JavaScript, PostgreSQL
+
+### 🔥 [EERISED Candles](https://github.com/desireealexia/eerised-candles)  
+Custom-built e-commerce platform for a home fragrance brand. Includes **Stripe integration**, clean UI, and accessible design.  
+Tech: Django, HTML, CSS, JavaScript, PostgreSQL, Stripe Integration
 
 ---
 
