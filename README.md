@@ -4,6 +4,8 @@
 
 **Front-End Developer** passionate about building responsive, accessible, and user-first websites. I combine creativity with clean code to craft seamless digital experiences that not only look great but work beautifully across devices.
 
+👉 Check out my [portfolio](https://desireealexia.github.io/portfolio/) for more!
+
 ---
 
 ## 💡 About Me
