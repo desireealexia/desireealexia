@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/desireealexia/desireealexia/blob/main/header.png?raw=true)](https://github.com/desireealexia)
+![banner](https://github.com/user-attachments/assets/31a4f5cd-dd88-48d1-a568-b966ff2783a2)
 
 # 👋 Hi, I'm Desiree
 
