@@ -52,6 +52,26 @@ Custom e-commerce platform with Stripe integration for a home fragrance brand.
 
 ---
 
+## 🧠 Completed Courses
+
+### Code First Girls
+- JavaScript Kickstarter *(In Progress, May 2025)*
+- Data & SQL Kickstarter *(In Progress, May 2025)*
+- C# Kickstarter *(May 2025)*
+- Intro to Business Analysis Tech Taster *(Apr 2024)*
+- Intro to C++ Tech Taster *(Apr 2024)*
+- Intro to JavaScript Tech Taster *(Apr 2024)*
+
+### Le Wagon
+- Intro to Git & GitHub
+- Tech Academy (Web Development)
+
+### Other Platforms
+- IBM Web Development Fundamentals
+- Simplilearn Web Development for Beginners
+
+---  
+
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/desireewilliamsforde/)  
